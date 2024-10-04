@@ -1,0 +1,11 @@
+council,county,council_type,avg_price_dec_2023,avg_price_dec_2022,difference
+Kensington and Chelsea,Greater London,london_boroughs,1191616.00,1363248.00,-12.6
+Westminster,Greater London,london_boroughs,938596.00,1029489.00,-8.8
+City of London,City of London,london_boroughs,709998.00,764659.00,-7.1
+Tandridge,Surrey,district_councils,437326.00,468239.00,-6.6
+Slough,Berkshire,unitary_authorities,291723.00,305619.00,-4.5
+Braintree,Essex,district_councils,276858.00,289650.00,-4.4
+Uttlesford,Essex,district_councils,391917.00,407227.00,-3.8
+Redbridge,Greater London,london_boroughs,413676.00,430046.00,-3.8
+Kings Lynn and West Norfolk,Norfolk,district_councils,214961.00,222679.00,-3.5
+Bexley,Greater London,london_boroughs,332759.00,344427.00,-3.4

@@ -1,0 +1,317 @@
+council,county,council_type,sales_volume_nov_2023,sales_volume_nov_2022,growth(%),rank
+East Staffordshire,Staffordshire,district_councils,186,140,32.86,1
+Fareham,Hampshire,district_councils,161,130,23.85,2
+Winchester,Hampshire,district_councils,158,130,21.54,3
+Gosport,Hampshire,district_councils,111,93,19.35,4
+Chesterfield,Derbyshire,district_councils,141,119,18.49,5
+Pendle,Lancashire,district_councils,123,104,18.27,6
+Hartlepool,County Durham,unitary_authorities,94,80,17.5,7
+South Northamptonshire,Northamptonshire,district_councils,162,138,17.39,8
+Watford,Hertfordshire,district_councils,89,76,17.11,9
+Cannock Chase,Staffordshire,district_councils,122,105,16.19,10
+Copeland,Cumbria,district_councils,95,82,15.85,11
+Worcester,Worcestershire,district_councils,146,127,14.96,12
+Barrow in Furness,Cumbria,district_councils,88,77,14.29,13
+Gateshead,Tyne and Wear,metropolitan_districts,215,189,13.76,14
+Broadland,Norfolk,district_councils,198,176,12.5,15
+Epsom and Ewell,Surrey,district_councils,72,64,12.5,15
+Fenland,Cambridgeshire,district_councils,148,132,12.12,16
+South Staffordshire,Staffordshire,district_councils,118,106,11.32,17
+Castle Point,Essex,district_councils,122,110,10.91,18
+Lancaster,Lancashire,district_councils,225,203,10.84,19
+Lewisham,Greater London,london_boroughs,244,223,9.42,20
+Gloucester,Gloucestershire,district_councils,170,158,7.59,21
+New Forest,Hampshire,district_councils,236,221,6.79,22
+Rotherham,South Yorkshire,metropolitan_districts,271,255,6.27,23
+North East Lincolnshire,Lincolnshire,unitary_authorities,210,198,6.06,24
+Hertsmere,Hertfordshire,district_councils,142,134,5.97,25
+Chiltern,Buckinghamshire,district_councils,110,104,5.77,26
+Sefton,Merseyside,metropolitan_districts,314,297,5.72,27
+Mid Devon,Devon,district_councils,101,96,5.21,28
+Bolsover,Derbyshire,district_councils,107,102,4.9,29
+Hambleton,North Yorkshire,district_councils,109,104,4.81,30
+Huntingdonshire,Cambridgeshire,district_councils,232,222,4.5,31
+Tamworth,Staffordshire,district_councils,76,73,4.11,32
+Ashfield,Nottinghamshire,district_councils,156,150,4.0,33
+St Helens,Merseyside,metropolitan_districts,204,197,3.55,34
+Warwick,Warwickshire,district_councils,212,206,2.91,35
+Haringey,Greater London,london_boroughs,149,145,2.76,36
+West Devon,Devon,district_councils,76,74,2.7,37
+West Lancashire,Lancashire,district_councils,120,117,2.56,38
+Westminster,Greater London,london_boroughs,160,156,2.56,38
+Bracknell Forest,Berkshire,unitary_authorities,163,159,2.52,39
+Elmbridge,Surrey,district_councils,164,161,1.86,40
+Epping Forest,Essex,district_councils,151,149,1.34,41
+Waverley,Surrey,district_councils,175,173,1.16,42
+Worthing,West Sussex,district_councils,174,173,0.58,43
+Rushcliffe,Nottinghamshire,district_councils,176,175,0.57,44
+Basildon,Essex,district_councils,206,206,0.0,45
+Bassetlaw,Nottinghamshire,district_councils,154,154,0.0,45
+East Hertfordshire,Hertfordshire,district_councils,168,168,0.0,45
+Sedgemoor,Somerset,district_councils,163,163,0.0,45
+Bexley,Greater London,london_boroughs,245,245,0.0,45
+Bristol,Bristol,unitary_authorities,522,522,0.0,45
+Hinckley and Bosworth,Leicestershire,district_councils,166,167,-0.6,46
+North Norfolk,Norfolk,district_councils,159,160,-0.63,47
+Selby,North Yorkshire,district_councils,152,153,-0.65,48
+Mansfield,Nottinghamshire,district_councils,131,132,-0.76,49
+Braintree,Essex,district_councils,195,197,-1.02,50
+Spelthorne,Surrey,district_councils,94,95,-1.05,51
+Maldon,Essex,district_councils,85,86,-1.16,52
+Adur,West Sussex,district_councils,82,83,-1.2,53
+Oadby and Wigston,Leicestershire,district_councils,67,68,-1.47,54
+Woking,Surrey,district_councils,123,125,-1.6,55
+Blackpool,Lancashire,unitary_authorities,179,182,-1.65,56
+Hart,Hampshire,district_councils,118,120,-1.67,57
+Durham,County Durham,unitary_authorities,608,620,-1.94,58
+Isle of Wight,Isle of Wight,unitary_authorities,222,227,-2.2,59
+Windsor and Maidenhead,Berkshire,unitary_authorities,133,136,-2.21,60
+Derby,Derbyshire,unitary_authorities,255,261,-2.3,61
+Scarborough,North Yorkshire,district_councils,168,172,-2.33,62
+Halton,Cheshire,unitary_authorities,115,118,-2.54,63
+Uttlesford,Essex,district_councils,110,113,-2.65,64
+Broxtowe,Nottinghamshire,district_councils,142,146,-2.74,65
+Colchester,Essex,district_councils,248,256,-3.13,66
+Lambeth,Greater London,london_boroughs,244,252,-3.17,67
+Folkestone and Hythe,Kent,district_councils,147,152,-3.29,68
+Wyre Forest,Worcestershire,district_councils,108,112,-3.57,69
+Eden,Cumbria,district_councils,75,78,-3.85,70
+South Norfolk,Norfolk,district_councils,193,201,-3.98,71
+Torridge,Devon,district_councils,93,97,-4.12,72
+Wolverhampton,West Midlands,metropolitan_districts,233,243,-4.12,72
+Wandsworth,Greater London,london_boroughs,342,357,-4.2,73
+Wycombe,Buckinghamshire,district_councils,186,195,-4.62,74
+Tunbridge Wells,Kent,district_councils,144,151,-4.64,75
+Lincoln,Lincolnshire,district_councils,121,127,-4.72,76
+Staffordshire Moorlands,Staffordshire,district_councils,121,127,-4.72,76
+Northampton,Northamptonshire,district_councils,273,287,-4.88,77
+Great Yarmouth,Norfolk,district_councils,132,139,-5.04,78
+North Kesteven,Lincolnshire,district_councils,165,174,-5.17,79
+Dudley,West Midlands,metropolitan_districts,351,371,-5.39,80
+York,North Yorkshire,unitary_authorities,263,278,-5.4,81
+Rossendale,Lancashire,district_councils,87,92,-5.43,82
+Torbay,Devon,unitary_authorities,206,218,-5.5,83
+Bromley,Greater London,london_boroughs,343,363,-5.51,84
+Sunderland,Tyne and Wear,metropolitan_districts,277,294,-5.78,85
+Slough,Berkshire,unitary_authorities,97,103,-5.83,86
+East Hampshire,Hampshire,district_councils,145,154,-5.84,87
+Runnymede,Surrey,district_councils,95,101,-5.94,88
+Brighton and Hove,East Sussex,unitary_authorities,300,319,-5.96,89
+North Tyneside,Tyne and Wear,metropolitan_districts,263,280,-6.07,90
+Allerdale,Cumbria,district_councils,122,130,-6.15,91
+High Peak,Derbyshire,district_councils,120,128,-6.25,92
+North Devon,Devon,district_councils,140,150,-6.67,93
+Rochford,Essex,district_councils,98,105,-6.67,93
+South Hams,Devon,district_councils,126,135,-6.67,93
+Greenwich,Greater London,london_boroughs,263,282,-6.74,94
+Harrogate,North Yorkshire,district_councils,214,230,-6.96,95
+Stroud,Gloucestershire,district_councils,152,164,-7.32,96
+Oxford,Oxfordshire,district_councils,101,109,-7.34,97
+Hyndburn,Lancashire,district_councils,83,90,-7.78,98
+Peterborough,Cambridgeshire,unitary_authorities,213,231,-7.79,99
+St Albans,Hertfordshire,district_councils,178,194,-8.25,100
+Cheshire East,Cheshire,unitary_authorities,565,616,-8.28,101
+Coventry,West Midlands,metropolitan_districts,329,359,-8.36,102
+Rushmoor,Hampshire,district_councils,98,107,-8.41,103
+Bradford,West Yorkshire,metropolitan_districts,540,591,-8.63,104
+Derbyshire Dales,Derbyshire,district_councils,95,104,-8.65,105
+Darlington,County Durham,unitary_authorities,122,134,-8.96,106
+Lewes,East Sussex,district_councils,129,142,-9.15,107
+West Lindsey,Lincolnshire,district_councils,128,141,-9.22,108
+Surrey Heath,Surrey,district_councils,107,118,-9.32,109
+Cornwall,Cornwall,unitary_authorities,778,858,-9.32,109
+Kensington and Chelsea,Greater London,london_boroughs,106,117,-9.4,110
+Bolton,Greater Manchester,metropolitan_districts,277,307,-9.77,111
+Dorset,Dorset,unitary_authorities,582,646,-9.91,112
+Harlow,Essex,district_councils,99,110,-10.0,113
+Enfield,Greater London,london_boroughs,214,238,-10.08,114
+Nuneaton and Bedworth,Warwickshire,district_councils,177,197,-10.15,115
+Camden,Greater London,london_boroughs,123,137,-10.22,116
+Tendring,Essex,district_councils,218,243,-10.29,117
+North Lincolnshire,Lincolnshire,unitary_authorities,199,222,-10.36,118
+Mendip,Somerset,district_councils,128,143,-10.49,119
+Exeter,Devon,district_councils,171,192,-10.94,120
+Richmondshire,North Yorkshire,district_councils,55,62,-11.29,121
+Richmond upon Thames,Greater London,london_boroughs,203,229,-11.35,122
+Gedling,Nottinghamshire,district_councils,156,176,-11.36,123
+Wokingham,Berkshire,unitary_authorities,218,246,-11.38,124
+South Lakeland,Cumbria,district_councils,139,157,-11.46,125
+Blaby,Leicestershire,district_councils,123,139,-11.51,126
+Mole Valley,Surrey,district_councils,84,95,-11.58,127
+Leeds,West Yorkshire,metropolitan_districts,854,966,-11.59,128
+Canterbury,Kent,district_councils,181,205,-11.71,129
+South Ribble,Lancashire,district_councils,128,145,-11.72,130
+Amber Valley,Derbyshire,district_councils,156,177,-11.86,131
+Luton,Bedfordshire,unitary_authorities,183,208,-12.02,132
+Guildford,Surrey,district_councils,146,166,-12.05,133
+Wirral,Merseyside,metropolitan_districts,357,406,-12.07,134
+Croydon,Greater London,london_boroughs,307,350,-12.29,135
+Milton Keynes,Buckinghamshire,unitary_authorities,307,350,-12.29,135
+Daventry,Northamptonshire,district_councils,106,121,-12.4,136
+East Cambridgeshire,Cambridgeshire,district_councils,106,121,-12.4,136
+Dacorum,Hertfordshire,district_councils,154,176,-12.5,137
+Walsall,West Midlands,metropolitan_districts,235,269,-12.64,138
+Arun,West Sussex,district_councils,234,268,-12.69,139
+Stockton on Tees,County Durham,unitary_authorities,227,260,-12.69,139
+East Lindsey,Lincolnshire,district_councils,206,236,-12.71,140
+Rugby,Warwickshire,district_councils,150,172,-12.79,141
+Knowsley,Merseyside,metropolitan_districts,156,179,-12.85,142
+Wealden,East Sussex,district_councils,210,241,-12.86,143
+Eastbourne,East Sussex,district_councils,135,155,-12.9,144
+Northumberland,Northumberland,unitary_authorities,397,456,-12.94,145
+Oldham,Greater Manchester,metropolitan_districts,232,267,-13.11,146
+Broxbourne,Hertfordshire,district_councils,91,105,-13.33,147
+Cheltenham,Gloucestershire,district_councils,156,180,-13.33,147
+Cheshire West and Chester,Cheshire,unitary_authorities,435,502,-13.35,148
+Vale of White Horse,Oxfordshire,district_councils,154,178,-13.48,149
+North Somerset,Somerset,unitary_authorities,276,319,-13.48,149
+Sutton,Greater London,london_boroughs,198,229,-13.54,150
+Maidstone,Kent,district_councils,165,191,-13.61,151
+Kingston upon Thames,Greater London,london_boroughs,146,169,-13.61,151
+Mid Sussex,West Sussex,district_councils,184,213,-13.62,152
+Ipswich,Suffolk,district_councils,139,161,-13.66,153
+South Gloucestershire,Gloucestershire,unitary_authorities,327,379,-13.72,154
+Stockport,Greater Manchester,metropolitan_districts,358,415,-13.73,155
+North East Derbyshire,Derbyshire,district_councils,138,160,-13.75,156
+Hillingdon,Greater London,london_boroughs,216,251,-13.94,157
+Wakefield,West Yorkshire,metropolitan_districts,393,457,-14.0,158
+Kirklees,West Yorkshire,metropolitan_districts,452,526,-14.07,159
+Kettering,Northamptonshire,district_councils,128,149,-14.09,160
+South Tyneside,Tyne and Wear,metropolitan_districts,128,149,-14.09,160
+Harrow,Greater London,london_boroughs,165,193,-14.51,161
+Leicester,Leicestershire,unitary_authorities,240,281,-14.59,162
+Erewash,Derbyshire,district_councils,152,178,-14.61,163
+Southend on Sea,Essex,unitary_authorities,229,269,-14.87,164
+Chorley,Lancashire,district_councils,120,141,-14.89,165
+North Warwickshire,Warwickshire,district_councils,68,80,-15.0,166
+Rutland,Rutland,unitary_authorities,45,53,-15.09,167
+Plymouth,Devon,unitary_authorities,319,376,-15.16,168
+Tameside,Greater Manchester,metropolitan_districts,275,325,-15.38,169
+Welwyn Hatfield,Hertfordshire,district_councils,96,114,-15.79,170
+Wigan,Greater Manchester,metropolitan_districts,387,460,-15.87,171
+Manchester,Greater Manchester,metropolitan_districts,406,483,-15.94,172
+Doncaster,South Yorkshire,metropolitan_districts,308,368,-16.3,173
+South Holland,Lincolnshire,district_councils,118,141,-16.31,174
+Preston,Lancashire,district_councils,120,144,-16.67,175
+Trafford,Greater Manchester,metropolitan_districts,265,318,-16.67,175
+Portsmouth,Hampshire,unitary_authorities,200,240,-16.67,175
+Liverpool,Merseyside,metropolitan_districts,487,586,-16.89,176
+Redcar and Cleveland,North Yorkshire,unitary_authorities,150,182,-17.58,177
+Kings Lynn and West Norfolk,Norfolk,district_councils,177,215,-17.67,178
+Sheffield,South Yorkshire,metropolitan_districts,531,645,-17.67,178
+West Berkshire,Berkshire,unitary_authorities,158,192,-17.71,179
+Malvern Hills,Worcestershire,district_councils,92,112,-17.86,180
+South Derbyshire,Derbyshire,district_councils,164,200,-18.0,181
+Stevenage,Hertfordshire,district_councils,86,105,-18.1,182
+Tonbridge and Malling,Kent,district_councils,149,182,-18.13,183
+Hounslow,Greater London,london_boroughs,164,201,-18.41,184
+Stoke on Trent,Staffordshire,unitary_authorities,266,327,-18.65,185
+Cambridge,Cambridgeshire,district_councils,90,111,-18.92,186
+Ashford,Kent,district_councils,137,169,-18.93,187
+Nottingham,Nottinghamshire,unitary_authorities,277,342,-19.01,188
+Test Valley,Hampshire,district_councils,149,184,-19.02,189
+Chelmsford,Essex,district_councils,206,255,-19.22,190
+Havering,Greater London,london_boroughs,263,326,-19.33,191
+North Hertfordshire,Hertfordshire,district_councils,137,170,-19.41,192
+South Somerset,Somerset,district_councils,212,264,-19.7,193
+Shropshire,Shropshire,unitary_authorities,401,500,-19.8,194
+Rother,East Sussex,district_councils,143,179,-20.11,195
+Tewkesbury,Gloucestershire,district_councils,123,154,-20.13,196
+Waltham Forest,Greater London,london_boroughs,205,257,-20.23,197
+Ealing,Greater London,london_boroughs,188,236,-20.34,198
+Blackburn with Darwen,Lancashire,unitary_authorities,124,156,-20.51,199
+South Oxfordshire,Oxfordshire,district_councils,162,204,-20.59,200
+Reigate and Banstead,Surrey,district_councils,158,199,-20.6,201
+Telford and Wrekin,Shropshire,unitary_authorities,211,266,-20.68,202
+Wiltshire,Wiltshire,unitary_authorities,531,670,-20.75,203
+South Kesteven,Lincolnshire,district_councils,160,202,-20.79,204
+Swindon,Wiltshire,unitary_authorities,277,350,-20.86,205
+Barking and Dagenham,Greater London,london_boroughs,117,148,-20.95,206
+Solihull,West Midlands,metropolitan_districts,237,302,-21.52,207
+Eastleigh,Hampshire,district_councils,170,217,-21.66,208
+Brentwood,Essex,district_councils,101,129,-21.71,209
+West Oxfordshire,Oxfordshire,district_councils,119,152,-21.71,209
+Norwich,Norfolk,district_councils,150,192,-21.88,210
+Bromsgrove,Worcestershire,district_councils,127,163,-22.09,211
+Newark and Sherwood,Nottinghamshire,district_councils,148,190,-22.11,212
+Sandwell,West Midlands,metropolitan_districts,225,290,-22.41,213
+Horsham,West Sussex,district_councils,190,245,-22.45,214
+Redbridge,Greater London,london_boroughs,207,267,-22.47,215
+Dover,Kent,district_councils,134,174,-22.99,216
+Carlisle,Cumbria,district_councils,140,182,-23.08,217
+Hastings,East Sussex,district_councils,110,143,-23.08,217
+Rochdale,Greater Manchester,metropolitan_districts,193,251,-23.11,218
+Cherwell,Oxfordshire,district_councils,171,223,-23.32,219
+Aylesbury Vale,Buckinghamshire,district_councils,245,320,-23.44,220
+Warrington,Cheshire,unitary_authorities,229,300,-23.67,221
+Boston,Lincolnshire,district_councils,64,84,-23.81,222
+Central Bedfordshire,Bedfordshire,unitary_authorities,325,427,-23.89,223
+Fylde,Lancashire,district_councils,114,150,-24.0,224
+Harborough,Leicestershire,district_councils,126,166,-24.1,225
+Ryedale,North Yorkshire,district_councils,66,87,-24.14,226
+Reading,Berkshire,unitary_authorities,163,215,-24.19,227
+Thurrock,Essex,unitary_authorities,152,201,-24.38,228
+East Northamptonshire,Northamptonshire,district_councils,108,143,-24.48,229
+Wychavon,Worcestershire,district_councils,132,175,-24.57,230
+Cotswold,Gloucestershire,district_councils,127,169,-24.85,231
+Middlesbrough,North Yorkshire,unitary_authorities,130,173,-24.86,232
+Bournemouth,Dorset,unitary_authorities,203,271,-25.09,233
+Thanet,Kent,district_councils,149,199,-25.13,234
+Barnsley,South Yorkshire,metropolitan_districts,247,330,-25.15,235
+Hammersmith and Fulham,Greater London,london_boroughs,137,184,-25.54,236
+Bedford,Bedfordshire,unitary_authorities,193,260,-25.77,237
+Havant,Hampshire,district_councils,114,154,-25.97,238
+Forest of Dean,Gloucestershire,district_councils,74,100,-26.0,239
+Basingstoke and Deane,Hampshire,district_councils,198,268,-26.12,240
+Mid Suffolk,Suffolk,district_councils,130,176,-26.14,241
+South Cambridgeshire,Cambridgeshire,district_councils,157,214,-26.64,242
+Three Rivers,Hertfordshire,district_councils,74,101,-26.73,243
+Corby,Northamptonshire,district_councils,84,115,-26.96,244
+Wyre,Lancashire,district_councils,124,170,-27.06,245
+Birmingham,West Midlands,metropolitan_districts,844,1160,-27.24,246
+East Devon,Devon,district_councils,208,287,-27.53,247
+Medway,Kent,unitary_authorities,249,344,-27.62,248
+Salford,Greater Manchester,metropolitan_districts,307,425,-27.76,249
+Bath and North East Somerset,Somerset,unitary_authorities,181,251,-27.89,250
+Breckland,Norfolk,district_councils,147,204,-27.94,251
+Ribble Valley,Lancashire,district_councils,61,85,-28.24,252
+Bury,Greater Manchester,metropolitan_districts,179,251,-28.69,253
+Lichfield,Staffordshire,district_councils,116,163,-28.83,254
+Brent,Greater London,london_boroughs,121,171,-29.24,255
+Swale,Kent,district_councils,150,212,-29.25,256
+Redditch,Worcestershire,district_councils,97,138,-29.71,257
+Herefordshire,Herefordshire,unitary_authorities,191,273,-30.04,258
+Merton,Greater London,london_boroughs,138,198,-30.3,259
+Tandridge,Surrey,district_councils,85,122,-30.33,260
+Burnley,Lancashire,district_councils,89,128,-30.47,261
+Charnwood,Leicestershire,district_councils,208,301,-30.9,262
+Crawley,West Sussex,district_councils,90,132,-31.82,263
+Chichester,West Sussex,district_councils,130,191,-31.94,264
+Calderdale,West Yorkshire,metropolitan_districts,217,319,-31.97,265
+Stratford on Avon,Warwickshire,district_councils,157,231,-32.03,266
+Teignbridge,Devon,district_councils,162,239,-32.22,267
+Craven,North Yorkshire,district_councils,69,103,-33.01,268
+Wellingborough,Northamptonshire,district_councils,79,118,-33.05,269
+Barnet,Greater London,london_boroughs,230,349,-34.1,270
+Melton,Leicestershire,district_councils,56,86,-34.88,271
+Dartford,Kent,district_councils,129,202,-36.14,272
+Hackney,Greater London,london_boroughs,128,202,-36.63,273
+Gravesham,Kent,district_councils,85,136,-37.5,274
+Babergh,Suffolk,district_councils,97,156,-37.82,275
+Stafford,Staffordshire,district_councils,137,224,-38.84,276
+Islington,Greater London,london_boroughs,110,188,-41.49,277
+Sevenoaks,Kent,district_councils,84,147,-42.86,278
+Southwark,Greater London,london_boroughs,189,334,-43.41,279
+North West Leicestershire,Leicestershire,district_councils,100,188,-46.81,280
+Newham,Greater London,london_boroughs,142,271,-47.6,281
+Southampton,Hampshire,unitary_authorities,211,415,-49.16,282
+Tower Hamlets,Greater London,london_boroughs,148,328,-54.88,283
+City of London,City of London,london_boroughs,10,40,-75.0,284
+East Suffolk,Suffolk,district_councils,,,,285
+Newcastle Under Lyme,Staffordshire,district_councils,,,,285
+Somerset West and Taunton,Somerset,district_councils,,,,285
+South Buckinghamshire,Buckinghamshire,district_councils,,,,285
+West Suffolk,Suffolk,district_councils,,,,285
+Newcastle Upon Tyne,Tyne and Wear,metropolitan_districts,,,,285
+East Yorkshire,East Yorkshire,unitary_authorities,,,,285
+Hull,East Yorkshire,unitary_authorities,,,,285
